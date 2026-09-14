@@ -1,6 +1,4 @@
-###CrossAttn-VAE-GAN: Cross-Modal Learning for
-##Generalizable and Interpretable Drug–Target
-##Interaction Prediction
+# CrossAttn-VAE-GAN: Cross-Modal Learning for Generalizable and Interpretable Drug–Target Interaction Prediction
 
 This repository contains the implementation of CrossAttn-VAE-GAN, a multimodal deep learning framework for Drug–Target Interaction (DTI) prediction.
 
